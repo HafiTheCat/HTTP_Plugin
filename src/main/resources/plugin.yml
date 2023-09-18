@@ -1,0 +1,6 @@
+name: HTTP_connection
+version: ${project.version}
+main: testplugin.testplugin.TestPlugin
+api-version: 1.13
+commands:
+  http:
